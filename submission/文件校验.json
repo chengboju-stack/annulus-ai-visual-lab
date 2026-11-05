@@ -1,13 +1,13 @@
 [
   {
     "file": "发布验收指南.md",
-    "bytes": 3495,
-    "sha256": "64bccd9e55201e1eba408f38f80bb1eb0dd0c098edc14145d8ee8e60c20d77c2"
+    "bytes": 3548,
+    "sha256": "f6b4cbabebdeb41178458bcf4e39797f8321170b21adcb5c8d6e2d1857323cb3"
   },
   {
     "file": "提交说明.md",
-    "bytes": 7036,
-    "sha256": "fc125f5572a54f2ac33a3bc723cc2a0011b91dc6fcb70ab09a0628436262768e"
+    "bytes": 7173,
+    "sha256": "db9e04e25e82eabf42a27fc49d460e0ce5478ebdd0e64c15cb09b5587a593fef"
   },
   {
     "file": "案例压缩包/固井-固井漏失风险预测.zip",
@@ -36,8 +36,8 @@
   },
   {
     "file": "结课报告.pdf",
-    "bytes": 4309685,
-    "sha256": "998019b2fb4f652e53fdf718ed8b3a996a83fff3f8323c6ce4429f884f7d7133"
+    "bytes": 4309299,
+    "sha256": "1a304c877b81423e61578bb4be700be8500872b2d3f4959e3ea1ca8c1b6adb22"
   },
   {
     "file": "网站关键亮点讲解视频.mp4",
@@ -46,12 +46,17 @@
   },
   {
     "file": "网站关键亮点说明.pdf",
-    "bytes": 798801,
-    "sha256": "780343b28482805e9e550ce1f48f9be4bed72483d485c77537d554d9a854dcc5"
+    "bytes": 799346,
+    "sha256": "575e06db63ae236e93e834121e55b4d9dfa99049456820f0dcbf4f0df49ffe87"
   },
   {
     "file": "网站发布包.zip",
     "bytes": 1332944,
     "sha256": "305370b2a98d4f55f411f70e3127b8ed04be02128621fe6bea326c79c720fd10"
+  },
+  {
+    "file": "网页链接.txt",
+    "bytes": 57,
+    "sha256": "9450ed66d768d9487dd8141f8b9253b1eea8db5d4c863ee027987d94f9374eb2"
   }
 ]
