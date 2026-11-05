@@ -1,0 +1,57 @@
+[
+  {
+    "file": "发布验收指南.md",
+    "bytes": 3495,
+    "sha256": "64bccd9e55201e1eba408f38f80bb1eb0dd0c098edc14145d8ee8e60c20d77c2"
+  },
+  {
+    "file": "提交说明.md",
+    "bytes": 7036,
+    "sha256": "fc125f5572a54f2ac33a3bc723cc2a0011b91dc6fcb70ab09a0628436262768e"
+  },
+  {
+    "file": "案例压缩包/固井-固井漏失风险预测.zip",
+    "bytes": 205644,
+    "sha256": "7b409510327f720b6008ba5ca38398aff1e692b892971614680f9d4ccda234c0"
+  },
+  {
+    "file": "案例压缩包/固井-固井质量智能评价.zip",
+    "bytes": 109397,
+    "sha256": "a20602df2d03b8486f9dcd6d897feb5e31b9da1c2b2b18535ccf984301889536"
+  },
+  {
+    "file": "案例压缩包/固井-套管居中度智能评估.zip",
+    "bytes": 106999,
+    "sha256": "9235e97d25c36e42ebec31750352ef6f2fdffaec63c2472cf2ae272b30325b08"
+  },
+  {
+    "file": "案例压缩包/固井-注水泥参数优化.zip",
+    "bytes": 126841,
+    "sha256": "cdf4f76ae44a2d3100adedfaccf71dc73bc3ca5520a827b3d00042d6b968a779"
+  },
+  {
+    "file": "案例压缩包/钻井-井下复杂事故前兆预警.zip",
+    "bytes": 113942,
+    "sha256": "bdfb5f1e30cb92d28c488ae559d00b54423b4622caee0d51236ba3257a21fc52"
+  },
+  {
+    "file": "结课报告.pdf",
+    "bytes": 4309685,
+    "sha256": "998019b2fb4f652e53fdf718ed8b3a996a83fff3f8323c6ce4429f884f7d7133"
+  },
+  {
+    "file": "网站关键亮点讲解视频.mp4",
+    "bytes": 21026198,
+    "sha256": "1f77672f8f0d3717e16a2e82583305fb821d90230d262642cbe9ae2f476db689"
+  },
+  {
+    "file": "网站关键亮点说明.pdf",
+    "bytes": 798801,
+    "sha256": "780343b28482805e9e550ce1f48f9be4bed72483d485c77537d554d9a854dcc5"
+  },
+  {
+    "file": "网站发布包.zip",
+    "bytes": 1332944,
+    "sha256": "305370b2a98d4f55f411f70e3127b8ed04be02128621fe6bea326c79c720fd10"
+  }
+]
